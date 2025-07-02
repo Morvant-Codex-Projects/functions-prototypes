@@ -6,4 +6,4 @@ function Person (name, age, eyeColor, birthday ) {
 }
 
 
-const myFriend = new Person
+const myFriend = new Person(Alicec)
